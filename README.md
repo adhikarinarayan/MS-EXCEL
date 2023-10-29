@@ -12,4 +12,4 @@ Using the Vrinda Stor data, I have tried to answer the following questions with 
 - comparison of the status of orders
 
 ## Dashboard
-![Vrinda Store Dashboard](https://github.com/adhikarinarayan/MS-EXCEL/blob/main/vrinda_dashboard.png)
+![Vrinda Store Dashboard](https://github.com/adhikarinarayan/Vrinda-Store-Analysis/blob/main/vrinda_dashboard.png)
