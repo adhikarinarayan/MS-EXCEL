@@ -3,7 +3,7 @@
 Software used - MS Excel
 
 ---
-Using the Vrinda Stor data, I have tried to answer the following questions with the help of a dashboard and KPI.
+Using the Vrinda Store data, I have tried to answer the following questions with the help of a dashboard and KPI.
 - comparison of sales and orders
 - monthwise highest sales and order
 - top 5 states in sales
